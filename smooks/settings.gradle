@@ -1,0 +1,3 @@
+rootProject.name = 'smooks'
+include 'JavaToXml'
+
